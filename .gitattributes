@@ -1,0 +1,4 @@
+src/app/lib/* linguist-vendored
+doc/* linguist-documentation
+*.md linguist-documentation
+*.conf linguist-language=Nginx
